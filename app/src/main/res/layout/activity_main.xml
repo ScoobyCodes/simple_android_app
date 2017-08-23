@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context="com.example.sourabh.farhaneit_to_celsiusconvertor.MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"
+        android:inputType="numberDecimal|numberSigned"
+        android:layout_gravity="center"
+        android:textColor="#000000"
+        />
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/convertor"
+        android:layout_below="@+id/text">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/celsiusConvertor"
+
+            android:textColor="#262626"
+            android:text="Celsius"/>
+        <RadioButton
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/fahrenheitConvertor"
+
+            android:textColor="#262626"
+            android:text="Fahrenheit"/>
+    </RadioGroup>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="31dp"
+        android:layout_gravity="center"
+        android:text="convert"
+        android:textColor="#262626"
+        android:background="#4fcfc4"
+        android:id="@+id/convertButton"
+        android:onClick="tempConvertor"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/temp"
+        android:background="@android:color/transparent"/>
+</LinearLayout>

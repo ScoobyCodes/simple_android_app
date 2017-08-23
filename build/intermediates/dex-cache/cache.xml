@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/07914e4cd6390d5168d61154ab38ed4387c5ccbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f4fd395fd3a884ed991e19ef469af1963c09332/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/327d3b2c58ee6b6bf653fe5535eeb920640452f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b84f2bf31de7c3e811728af13cc2cb8bddaaea07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/04e31ab1ea6b57d216d563e8ea9603f8f45d1e52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_651799e26ce843fd20c6a76e01d5e219fb1a5892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="65f8607fac87882f4dc7ff8cec3fea682bbf1f3f">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ee1e7572ffc42f6122f03ed922a25a41a6cdadc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/5bc34ed5f9c9a0f2eb9a068377b586ae416f29bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae50c978eaab83222d530970875aad170c7cf8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/7d3bc783d1f9f22b9555e38b472c9ab8e2c89762/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c932db598785f86221eb1b5638adef5b0a8866f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_6287f89100a0d5d9248120659a001142858c0c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5634bb16837dff8f7026248202a6f3f6a2f476ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/83b2eba8619ef0d1a5ba500ebe14e0c1d69a1167/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1eab53399211a0cfba8b698926fc264cf2b24b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/da9df946ada09ce8b8c4d5fbf0e42e0d907d5386/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eb54d7a7f3ff6056b81683158b0f00b66c76707/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/43d785067acd9d311d82d2d3ebfffc796961bbf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c27a31c9f3acb76b335da29f8c827893060618f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sourabh/.android/build-cache/40528cc7e976cff01ffb5bcee43c8596e714af5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sourabh/myProjects/Farhaneit_to_CelsiusConvertor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffb7d84cd313be0425c10b97f29e7016ca60d025/classes.dex" />
+    </item>
+
+</items>
